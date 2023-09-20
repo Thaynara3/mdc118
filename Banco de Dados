@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T22:47:56.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="5B55-eRnfHlDK5QD6m1u" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T01:01:04.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="6v3YkGw62foHBk_FqJ48" version="21.7.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1731" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -473,6 +473,21 @@
         </mxCell>
         <mxCell id="yVjXFOdV6bgy5HJJRxtK-1" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Índice:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;CFRLB - Código de Fornecedor do Reino dos Leoninos Bruxos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CERLB - Código de Empresa do Reino dos Leoninos Bruxos&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;EBC - Endereço da Bolafone de Cristal&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="-810" y="-1100" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2ozXqsqVzDXPWi6Z913U-1" value="&lt;div&gt;João Vitor Frabis Zago&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;- 2312130020&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-494.25" y="-1100" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ozXqsqVzDXPWi6Z913U-2" value="&lt;div&gt;Sarah Pereira da Silva -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;2312130017&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-498" y="-1070" width="215.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ozXqsqVzDXPWi6Z913U-3" value="Thaynara Ramos Soares - 2312130186" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-498" y="-1040" width="232.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ozXqsqVzDXPWi6Z913U-4" value="&lt;div&gt;Valentina Kortbawi Sant Anna Duarte Moretti -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;2312130066&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-494.25" y="-1010" width="333" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ozXqsqVzDXPWi6Z913U-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;i&gt;Integrantes&lt;/i&gt;&lt;/b&gt;:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="-1130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
